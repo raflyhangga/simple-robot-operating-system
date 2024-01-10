@@ -1,0 +1,2 @@
+demo_package
+-DCATKIN_DEVEL_PREFIX=/home/rafly/demo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rafly/demo_ws/install -G Unix Makefiles
